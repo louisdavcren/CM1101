@@ -1,0 +1,60 @@
+	- Student Star Wars
+	- Choose characters
+	- At the end, kirill is darth vader
+	- R2-D2
+	- Timer
+	- 
+Strengths
+	Ed  :
+	- Presenting
+	- Powerpoint
+	- Not great at programming
+	Oscar :
+	- Stronger at programming
+	- Doesn't mind doing plenty of programming
+	Kriti:
+	- Alright with programming, loops, logic
+	- Presenting
+	Cameron:
+	- Best at programming
+	- Doesn't like presenting
+	Juvan:
+	- Not amazing at programming
+	- But can do the basics
+	Louis:
+	- Happy to present
+	- Not any experience in programming
+  _____________________________________________________________________________________________________
+
+
+Story Outline: storywriter -  Ed 
+	- Prompt, asking if you're ready to play? #TITLE SEQUENCE#
+	- Pick a character: Luke or Hans
+	- 'Leah is on darth vaders ship, we need to get there... Description'
+Luke:
+	- Luke is in alderaan, need to get enough parts to fix the ship POWER CONVERTERS
+	- Goes to Tosche station
+	- Needs to get to the cantina
+	- Goes to the cantina
+	- Gets in the cantina, does he go booth or bar?? (booth he meets solo)(bar means he gets ID'd so doesnt get served, go to booth)
+		Luke Items:
+		- Lightsaber
+		- Power converters
+		- Landspeeder
+		- R2D2
+
+Solo:
+	- In the cantina, needs to go get a drink
+	- Greedo confrontation, needs to type 'SHOOT'/'pew' within the timer (if in time, survives)(if not, looses health/dies)
+	- Both go to the falcon
+		Solo Items:
+		- Handgun
+		- Chewie
+	
+IN COMMON:
+	- Need to find out the password to get in: Hello World!
+	- Hint: "What is the only thing that every CM1101 can write (despite having a whole month of python)
+	- E=mc**2, calculate the energy needed to get to lightspeed - mass: 4000kg.
+	- "OH NO we're drowning! There's only one thing you can do to help us
+	- Input("Please enter a float!: ")
+
